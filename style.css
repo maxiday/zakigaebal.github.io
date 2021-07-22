@@ -600,3 +600,8 @@ p {
     bottom: 16px;
   }
 }
+
+.kakao_ad_120 {
+  width: 320px;
+  margin: 0 auto;
+}
