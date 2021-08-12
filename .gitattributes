@@ -8,3 +8,6 @@ CHANGELOG.md                    text merge=union
 docs/_docs/18-history.md        text merge=union
 
 *.md                            text
+
+# Auto detect text files and perform LF normalization
+* text=auto
